@@ -1,0 +1,21 @@
+{
+  "name": "tip-calculator",
+  "version": "1.0.0",
+  "description": "Simple JavaScript in the browser to calculate tips.",
+  "scripts": {
+    "start": "http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmckni3-org/tip-calculator.git"
+  },
+  "author": "Chris McKnight <cmckni3@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cmckni3-org/tip-calculator/issues"
+  },
+  "homepage": "https://github.com/cmckni3-org/tip-calculator#readme",
+  "devDependencies": {
+    "http-server": "~0.9.0"
+  }
+}
